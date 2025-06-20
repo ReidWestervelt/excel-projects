@@ -14,7 +14,7 @@ This dashboard allowed me to:
 
 ---
 
-### Salary Analysis
+# Project 2: Salary Analysis
 This analysis focused on the role of **skills** in determining salary for data-related jobs. I used **Power Query** to clean and transform data, helping me understand which skills drive compensation in different roles.
 
 [View the Analysis](Project_2_Analysis)
