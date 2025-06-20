@@ -10,7 +10,7 @@ This dashboard allowed me to:
 
 [View the Dashboard](Project_1_Dashboard)
 
-![Dashboard Preview](Project_1_Dashboard/excel_dashboard.png)
+![Dashboard Preview](Project_1_Dashboard/images/excel_dashboard.png)
 
 ---
 
@@ -19,7 +19,7 @@ This analysis focused on the role of **skills** in determining salary for data-r
 
 [View the Analysis](Project_2_Analysis)
 
-![Excel Analysis Preview](Project_2_Analysis/excel_analysis.png)
+![Excel Analysis Preview](Project_2_Analysis/images/excel_analysis.png)
 
 ---
 
