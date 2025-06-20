@@ -10,7 +10,7 @@ This dashboard allowed me to:
 
 [View the Dashboard](Project_1_Dashboard)
 
-![alt text](Project_1_Dashboard\image.png)
+![Excel Dashboard Preview](Project_1_Dashboard\image.png)
 
 ---
 
