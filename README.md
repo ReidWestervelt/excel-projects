@@ -8,9 +8,9 @@ This dashboard allowed me to:
 - Practice data visualization in Excel
 - Improve layout, interactivity, and formatting
 
-[View the Dashboard](Project_1_Dashboard\image.png)
+[View the Dashboard](Project_1_Dashboard)
 
-![alt text](image.png)
+![alt text](Project_1_Dashboard\image.png)
 
 ---
 
