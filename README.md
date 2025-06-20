@@ -8,7 +8,7 @@ This dashboard allowed me to:
 - Practice data visualization in Excel
 - Improve layout, interactivity, and formatting
 
-[View the Dashboard](Project_1_Dashboard)
+[View the Dashboard](Project_1_Dashboard\image.png)
 
 ![alt text](image.png)
 
@@ -19,7 +19,7 @@ This analysis focused on the role of **skills** in determining salary for data-r
 
 [View the Analysis](Project_2_Analysis)
 
-![alt text](image-1.png)
+![Excel Analysis Preview](Project_2_Analysis/excel_analysis.png)
 
 ---
 
