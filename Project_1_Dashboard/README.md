@@ -34,7 +34,7 @@ The dataset used for this project, provided by Luke Barousse, contains real-worl
 
 #### Data Science Job Salaries - Bar Chart
 
-![Salary Dashboard Bar Preview](Project_1_Dashboard/images/job_salary.png)
+![Salary Dashboard Bar Preview](images/job_salary.png)
 
 
 - **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -44,7 +44,7 @@ The dataset used for this project, provided by Luke Barousse, contains real-worl
 
 #### Country Median Salaries - Map Chart
 
-![Salary_Dashboard_Map_Chart](Project_1_Dashboard/images/job_map.png)
+![Salary_Dashboard_Map_Chart](images/job_map.png)
 
 - **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
