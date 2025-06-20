@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![Dashboard Preview](Project_1_Dashboard/excel_dashboard.png)
+![Dashboard Preview](images/excel_dashboard.png)
 
 ## Introduction
 
