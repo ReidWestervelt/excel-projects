@@ -3,9 +3,9 @@
 
 ## Introduction
 
-This data jobs analysis was used to find what skills alligned with what jobs, as well as using several higher level excel functions listed below. This dashboard was the final project of an 11 hour excel boot camp course create by Luke Barousse who gave an in-depth overview off all the skills used to create this dashboard and more. His youtube channel is linked below.
+This analysis explored how different skills align with specific job roles and used several advanced Excel functions listed below. It was the final project of an 11-hour Excel boot camp course created by Luke Barousse, who provided an in-depth overview of all the skills used to create this analysis and more. His youtube channel is linked below.
 
-https://www.youtube.com/@LukeBarousse
+[Luke Barousse's Youtube Channel]([url](https://www.youtube.com/@LukeBarousse))
 
 ### Questions to Analyze
 
@@ -75,7 +75,7 @@ The dataset used for this project, provided by Luke Barousse, contains real-worl
 
 ### Skills: PivotTables & DAX
 
-####Pivot Table
+#### Pivot Table
 
 - I created a PivotTable using the Data Model I created with Power Pivot.
 - I moved the `job_title_short` to the rows area and `salary_year_avg` into the values area.
@@ -113,7 +113,7 @@ The dataset used for this project, provided by Luke Barousse, contains real-worl
 #### Power Pivot
 
 - I created a data model by integrating the `data_jobs_all` and `data_jobs_skills` tables into one model.
-- Since I had already cleaned the data using Power Query; Power Pivot created a relationship between these two tables.
+- Since the data was already cleaned in Power Query, Power Pivot easily created a relationship between these two tables.
 
 #### Data Model
 
@@ -146,7 +146,7 @@ The dataset used for this project, provided by Luke Barousse, contains real-worl
 - I created a combo PivotChart to plot median salary and skill likelihood (%) from my PivotTable.
     - **Primary Axis:** Median Salary (as a Clustered Column)
     - **Secondary Axis:** Skill Likelihood (as a Line with Markers)
-- To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to diamonds.
+- To customize the chart, I added axis titles, removed the line chart for skill likelihood, and changed the markers to diamonds.
 
 ### Analysis
 
@@ -163,4 +163,4 @@ The dataset used for this project, provided by Luke Barousse, contains real-worl
 
 ## Conclusion
 
-I created this analysis to learn higher level excel functionality and practice emulating an analysis that would be similar to that requested by an employer. Utilizing the data from Luke Barousse and leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
+I created this analysis to develop higher-level Excel skills and practice emulating an analysis similar to one an employer might request. Utilizing the data from Luke Barousse and leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
