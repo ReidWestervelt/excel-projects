@@ -4,10 +4,11 @@
 
 ## Introduction
 
-This data jobs dashboard served to both help me find which data career I should focus on as well as taught me the foundations of analyzing data using excel. This dashboard was a part of an 11 hour excel boot camp course create by Luke Barousse who gave an in-depth overview off all the skills used to create this dashboard and more. His youtube channel is linked below.
+This data jobs dashboard helped me explore which data career paths to focus on while teaching me foundational Excel data analysis skills. It was a part of an 11 hour excel boot camp course create by Luke Barousse, who gave in-depth instruction of all the skills used to create this dashboard and more. His youtube channel is linked below.
 
-https://www.youtube.com/@LukeBarousse
-
+[Luke Barousse's Youtube Channel
+]([https://www.youtube.com/@LukeBarousse
+)
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
@@ -87,12 +88,12 @@ IF(
 
 #### Filtered List
 
-- **Enhanced Data Validation:** Implemented the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
-    - User input is restricted to predefined, validated schedule types
-    - Incorrect or inconsistent entries are prevented
-    - Overall usability of the dashboard is enhanced
+- **Enhanced Data Validation:** 
+    - Used the filtered list to create drop-down menus for Job Title, Country, and Schedule Type
+    - Prevents invalid user inputs and ensures consistent data entry
+    - Improves overall dashboard usability
 
 
 ## Conclusion
 
-I created this dashboard to learn new excel tricks and showcase insights into salary trends across various data-related job titles. Utilizing data from my Luke Barousse, this dashboard helped me gain a better insight into salaries associated with different data jobs. 
+I created this dashboard to learn new excel skills and showcase insights into salary trends across various data-related job titles. Utilizing data from Luke Barousse, this dashboard helped me gain a better insight into salaries associated with different data jobs. 
